@@ -1,0 +1,3 @@
+{
+  "extends": "@charlie-ui/eslint-config"
+}
